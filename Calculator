@@ -1,3 +1,39 @@
+
+Console.WriteLine(" My name is: Ahsan and Roll Number is: 24-st-089");
+
+
+ 
+Division:
+
+int X;
+int Y;
+int div = (X%Y);
+
+Console.WriteLine("div");
+
+
+Multiplaction:
+ int A;
+int B;
+int multiply = (A*B);
+
+Console.WriteLine("multiply");
+
+
+ Substraction:
+int x;
+int y;
+int sub = (x-y);
+
+Console.WriteLine("sub);
+
+ Addition
+int a;
+int b;
+int sum = a + b;
+Console.Writeline(sum);
+
+
 Conflict_Branch2
 Console.WriteLine(" My name is: Ahmed and Roll Number is: 24-se-098");
 
