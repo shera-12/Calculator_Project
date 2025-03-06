@@ -1,1 +1,5 @@
 Console.WriteLine(" My name is: Ahsan and Roll Number is: 24-st-089");
+int a;
+int b;
+int sum = a + b;
+Console.Writeline(sum);
