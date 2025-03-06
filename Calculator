@@ -1,4 +1,5 @@
 Console.WriteLine(" My name is: Ahsan and Roll Number is: 24-st-089");
+
  
 Division:
 
@@ -15,4 +16,12 @@ int B;
 int multiply = (A*B);
 
 Console.WriteLine("multiply");
+
+
+ Substraction:
+int x;
+int y;
+int sub = (x-y);
+
+Console.WriteLine("sub);
 
