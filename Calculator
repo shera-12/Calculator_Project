@@ -1,3 +1,4 @@
+
 Console.WriteLine(" My name is: Ahsan and Roll Number is: 24-st-089");
 
 
@@ -32,3 +33,9 @@ int b;
 int sum = a + b;
 Console.Writeline(sum);
 
+
+Conflict_Branch2
+Console.WriteLine(" My name is: Ahmed and Roll Number is: 24-se-098");
+
+Console.WriteLine(" My name is: Shera and Roll Number is: 24-st-009");
+ main
