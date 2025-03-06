@@ -1,1 +1,7 @@
 Console.WriteLine(" My name is: Ahsan and Roll Number is: 24-st-089");
+ Substraction:
+int x;
+int y;
+int sub = (x-y);
+
+Console.WriteLine("sub);
