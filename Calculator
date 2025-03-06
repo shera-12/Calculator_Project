@@ -1,1 +1,8 @@
 Console.WriteLine(" My name is: Ahsan and Roll Number is: 24-st-089");
+
+Multiplaction:
+ int A;
+int B;
+int multiply = (A*B);
+
+Console.WriteLine("multiply");
