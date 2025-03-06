@@ -1,1 +1,8 @@
 Console.WriteLine(" My name is: Ahsan and Roll Number is: 24-st-089");
+Division:
+
+int X;
+int Y;
+int div = (X%Y);
+
+Console.WriteLine("div");
